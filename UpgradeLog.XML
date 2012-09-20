@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Base64-Decode">
+</Property><Property Name="Projektmappendatei" Value="C:\Users\markus\Documents\SVN\Base64-Decoder\Base64-Decode.sln">
+</Property><Property Name="Date" Value="Mittwoch, 05. September 2012">
+</Property><Property Name="Time" Value="18:25">
+</Property></Properties><Event ErrorLevel="0" Project="Base64-Decode" Source="Base64-Decode\Base64-Decode.vbproj" Description="Projekt erfolgreich konvertiert">
+</Event><Event ErrorLevel="3" Project="Base64-Decode" Source="Base64-Decode\Base64-Decode.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Base64-Decode.sln" Description="Die Projektmappe wurde erfolgreich konvertiert.">
+</Event><Event ErrorLevel="3" Project="" Source="Base64-Decode.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Base64-Decode" Source="Base64-Decode\Base64-Decode.vbproj" Description="Überprüfung abgeschlossen: Upgrade der Projektdateien nicht erforderlich.">
+</Event></UpgradeLog>

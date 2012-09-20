@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Base64-Decode", "Base64-Decode\Base64-Decode.vbproj", "{D6ED2A66-420B-4AE9-8294-AC424B8EC088}"
 EndProject
 Global
